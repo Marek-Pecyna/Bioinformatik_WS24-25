@@ -1,1 +1,1 @@
-# FASTA sequences
+# Sequences
