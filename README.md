@@ -1,4 +1,4 @@
-# Angewandte Bioinformatik WS23/24
+# Angewandte Bioinformatik WS24/25
 
 `Dozent: Dr. Pecyna`
 * Programmierung in Python
