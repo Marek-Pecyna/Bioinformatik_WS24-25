@@ -8,4 +8,4 @@
 * Nutzung des Biopython-Moduls
 * BLAST-Abfragen
 
-Die Hausaufgaben vom 30.10.2024, 27.11.2024 und 19.12.2024 sind bereits in der Vorlage integriert.
+In der Datei "Vorlage_Beleg_WS24_25.ipynb" sind alle Hausaufgaben bereits als Vorlage integriert.
